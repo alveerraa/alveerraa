@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Alveera Ahmad</h1>
-<h3 align="center">👩🏻‍💻 Cloud Enthusiast & Full-Stack Developer</h3>
+<h3 align="center">👩🏻‍💻 Cloud , Devops & Software Developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952s2xtedhe2tcomfjdovjsxra7t0jgw2kyownv5vxi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alveerraa&label=Profile%20views&color=0e75b6&style=flat" alt="alveerraa" /> </p>
 
-- 🌱 I’m currently learning **new cloud technologies and enhancing my skills in backend and frontend development.**
+- 🌱 I’m currently learning **new cloud technologies and enhancing my skills in Software development and Full Stack.**
 
 - 📫 How to reach me **alveerraaa@gmail.com**
 
