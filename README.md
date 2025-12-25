@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alveerraa&label=Profile%20views&color=0e75b6&style=flat" alt="alveerraa" /> </p>
 
-- 🌱 I’m currently learning **new cloud technologies and enhancing my skills in Software development and Full Stack.**
+- 🌱 I’m currently learning **new cloud & devops technologies and enhancing my skills in Software development and Full Stack.**
 
 - 📫 How to reach me **alveerraaa@gmail.com**
 
