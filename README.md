@@ -40,7 +40,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs%20Merged-15%2B-a78bfa?style=flat-square" />
-  <img src="https://img.shields.io/badge/Internship-Gravityer-60a5fa?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-Django%20·%20Next.js%20·%20Redis-34d399?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20·%20Docker%20·%20K8s-f97316?style=flat-square" />
 </p>
