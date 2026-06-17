@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alveerraa&label=Profile%20views&color=0e75b6&style=flat" alt="alveerraa" /> </p>
 
-- 🌱 I’m currently learning **new cloud & devops technologies and enhancing my skills in Software development and Full Stack.**
+- 🚀 Shipped **20+ PRs** — payment gateway (Razorpay), Redis/Elasticsearch search, workflow engine fixes, filter audits & more
+
+- 🌱 Currently learning **AWS, Docker, Kubernetes & Terraform**
 
 - 📫 How to reach me **alveerraaa@gmail.com**
 
@@ -31,9 +33,23 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alveerraa&show_icons=true&locale=en&layout=compact" alt="alveerraa" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20Merged-15%2B-a78bfa?style=flat-square" />
+  <img src="https://img.shields.io/badge/Internship-Gravityer-60a5fa?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Django%20·%20Next.js%20·%20Redis-34d399?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20·%20Docker%20·%20K8s-f97316?style=flat-square" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alveerraa&show_icons=true&locale=en" alt="alveerraa" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alveerraa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alveerraa&theme=tokyonight&hide_border=true" />
+</p>
 
